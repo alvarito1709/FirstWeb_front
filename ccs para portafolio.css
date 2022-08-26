@@ -1,0 +1,85 @@
+
+.btn-group{
+
+    margin: 10px;
+
+}
+ 
+#banner1 {
+    border-radius: 10px;
+    width: 85%;
+    height: 450px;
+    display: block;
+    margin: 4px auto auto;
+    
+}
+body{
+    background-color: lightblue;
+}
+
+.social_media {
+
+    margin-left: 3px;
+}
+
+#imagen_de_perfil{
+    margin-top: 6px;
+    position: absolute;
+    z-index: 1;
+    width: 35px auto;
+    border-radius: 20%;
+    margin-left: 104px;
+
+}
+
+#acerca_de {
+    
+    padding-left: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    width: 85%;
+    min-height: 10px;
+    color: white;
+    display: block;
+    margin: 0% auto 2px;
+    border: 1px solid white;
+    border-radius: 10px;
+    
+
+}
+
+#experiencia {
+    margin-top: 5%;
+    color: white;
+    background-color: black;
+    width: 85%;
+    display: block;
+    margin: 2px auto;
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+
+#educacion {
+    margin-top: 5%;
+    color: white;
+    background-color: black;
+    width: 85%;
+    display: block;
+    margin: 2px auto;
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+
+footer {
+
+color: white;
+min-height: 10%;
+text-align: center;
+padding: 15px;
+
+}
